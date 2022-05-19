@@ -1,0 +1,28 @@
+#header{
+    text-align: center;
+    font-size: 25px;
+}
+
+#col1{
+    border-style:solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+#cols{
+    border-style:solid;
+    border-color: black;
+    border-width: 1px;
+    color: red;
+    text-align: center;
+}
+
+#cols:hover{
+    font-size: 30px;
+    transition: all 0.1s ease 0.3s;
+    background-color: lightgrey;
+    font-weight: bold;
+    color: black;
+    
+}
